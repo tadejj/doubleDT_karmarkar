@@ -1,0 +1,90 @@
+# depslib dependency file v1.0
+1467841152 source:d:\nn, r, arima, aom\multicost\karmarkara\karmarkara_c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"multi_cost_h.h"
+
+1467841198 t_h.h"
+
+1467840118 source:d:\nn, r, arima, aom\multicost\karmarkara\karmarkara_c\lu_transformation.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"multi_cost_h.h"
+
+1467840118 d:\nn, r, arima, aom\multicost\karmarkara\karmarkara_c\multi_cost_h.h
+
+1467841299 source:d:\nn, r, arima, aom\multicost\karmarkara\karmarkara_c\linear_alg_operation.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"multi_cost_h.h"
+
+1467841198 source:d:\nn, r, arima, aom\multicost\karmarkara\karmarkara_c\karmarkara_function.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"multi_cost_h.h"
+
+1467802190 source:/home/tuss/C_CPP/Karmarkara_c/karmarkara_function.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"multi_cost_h.h"
+
+1467894647 /home/tuss/C_CPP/Karmarkara_c/multi_cost_h.h
+	<malloc.h>
+
+1467802190 source:/home/tuss/C_CPP/Karmarkara_c/linear_alg_operation.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"multi_cost_h.h"
+
+1467840988 source:/home/tuss/C_CPP/Karmarkara_c/lu_transformation.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"multi_cost_h.h"
+	<malloc.h>
+
+1467838649 source:/home/tuss/C_CPP/Karmarkara_c/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"multi_cost_h.h"
+	<malloc.h>
+
+1467971892 source:d:\arima_r\multi_crit\karmarkara_c\karmarkara_function.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"multi_cost_h.h"
+
+1467971892 d:\arima_r\multi_crit\karmarkara_c\multi_cost_h.h
+	<malloc.h>
+
+1467971892 source:d:\arima_r\multi_crit\karmarkara_c\linear_alg_operation.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"multi_cost_h.h"
+
+1467971890 source:d:\arima_r\multi_crit\karmarkara_c\lu_transformation.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"multi_cost_h.h"
+	<malloc.h>
+
+1467971892 source:d:\arima_r\multi_crit\karmarkara_c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"multi_cost_h.h"
+	<malloc.h>
+
